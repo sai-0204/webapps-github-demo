@@ -1,5 +1,5 @@
 # webapps-github-demo
 
 Welcome to the party.
-rtrf
-Lets demon a Merge Conflict
+We hvae succesfully fixed the  Merge Conflict
+
