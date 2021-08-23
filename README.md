@@ -1,3 +1,3 @@
 # webapps-github-demo
 
-Welocme to the party.
+Welcome to the party.
